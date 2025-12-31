@@ -9,7 +9,7 @@
   <a href="https://bionluk.com/mehmeteyasar" target="_blank">
     <img src="https://img.shields.io/badge/Hire_Me_on-Bionluk-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk">
   </a>
-  <a href="R10_PROFIL_LINKINI_BURAYA_YAPISTIR" target="_blank">
+  <a href="https://www.r10.net/profil/184038-mehmeterenyasar.html" target="_blank">
     <img src="https://img.shields.io/badge/R10.net-Profile-F39C12?style=for-the-badge&logo=rss&logoColor=white" alt="R10.net">
   </a>
 </div>
@@ -77,7 +77,7 @@ I don't just deliver templates; I provide **tailor-made software solutions** des
   <a href="https://bionluk.com/mehmeteyasar" target="_blank">
     <img src="https://img.shields.io/badge/Contact_on-Bionluk-FF6B6B?style=for-the-badge&logo=bionluk&logoColor=white" alt="Bionluk" />
   </a>
-  <a href="R10_PROFIL_LINKINI_BURAYA_YAPISTIR" target="_blank">
+  <a href="https://www.r10.net/profil/184038-mehmeterenyasar.html" target="_blank">
     <img src="https://img.shields.io/badge/Contact_on-R10.net-F39C12?style=for-the-badge&logo=rss&logoColor=white" alt="R10.net">
   </a>
 </div>
