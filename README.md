@@ -6,8 +6,11 @@
   <h3>Building "Tailor-Made" Solutions with Clean Code Architecture.</h3>
   <br/>
   
-  <a href="https://bionluk.com/mehmeteyasar">
-    <img src="https://img.shields.io/badge/Hire_Me_on-Bionluk-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" alt="Hire Me">
+  <a href="https://bionluk.com/mehmeteyasar" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me_on-Bionluk-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk">
+  </a>
+  <a href="R10_PROFIL_LINKINI_BURAYA_YAPISTIR" target="_blank">
+    <img src="https://img.shields.io/badge/R10.net-Profile-F39C12?style=for-the-badge&logo=rss&logoColor=white" alt="R10.net">
   </a>
 </div>
 
@@ -35,6 +38,7 @@ I don't just deliver templates; I provide **tailor-made software solutions** des
 **Frontend & Design** <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
@@ -55,19 +59,10 @@ I don't just deliver templates; I provide **tailor-made software solutions** des
 | **🚀 Web Development** | Full-stack development using **PHP, Laravel,** and **CodeIgniter**. Custom CRM, Admin Panels, and SaaS projects built from scratch. |
 | **🤖 Bots & Automation** | **Python** based automation. **Web Scraping**, Data Mining, and custom bots for **Telegram & WhatsApp**. |
 | **🔗 Integrations** | Seamless integration of **APIs, XML services**, and **Payment Gateways** into your existing systems. |
-| **🎨 PSD/Figma to Code** | Pixel-perfect conversion of designs into clean **HTML/CSS**. |
+| **🎨 PSD/Figma to Code** | Pixel-perfect conversion of designs into clean **HTML/CSS** and **Tailwind**. |
 | **🔧 Maintenance** | Updating, fixing, and adding new features to existing legacy systems. |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmeterenyasar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeterenyasar&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br/>
 
 ### 🌟 Featured Repository
 
@@ -79,7 +74,10 @@ I don't just deliver templates; I provide **tailor-made software solutions** des
 
 <div align="center">
   <p>Ready to start a project?</p>
-  <a href="https://bionluk.com/mehmeteyasar">
-    <img src="https://img.shields.io/badge/Contact_Me-Black?style=for-the-badge&logo=bionluk&logoColor=white" alt="Contact Me" />
+  <a href="https://bionluk.com/mehmeteyasar" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_on-Bionluk-FF6B6B?style=for-the-badge&logo=bionluk&logoColor=white" alt="Bionluk" />
+  </a>
+  <a href="R10_PROFIL_LINKINI_BURAYA_YAPISTIR" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_on-R10.net-F39C12?style=for-the-badge&logo=rss&logoColor=white" alt="R10.net">
   </a>
 </div>
