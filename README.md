@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I am a **Freelance Software Developer** with **5+ years of experience** and over **100+ successful projects** across various platforms. I specialize in building custom web applications, automation bots, and complex integrations. 
+I am a **Freelance Software Developer** with **5+ years of experience** and over **25+ successful projects** across various platforms. I specialize in building custom web applications, automation bots, and complex integrations. 
 
 I don't just deliver templates; I provide **tailor-made software solutions** designed specifically for your business needs with a focus on **clean code** and scalability.
 
