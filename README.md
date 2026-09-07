@@ -81,7 +81,7 @@ I don't ship templates. I build **tailor-made software** for the way a business 
 | **[CoinTopList](https://cointoplist.net)** · [case study](https://meyasar.com/work/cointoplist/) | Crypto token discovery platform — listings, voting, live market data. |
 | **[Vipera](https://viperabot.com)** · [case study](https://meyasar.com/work/vipera/) | SaaS algo-trading platform with subscriptions and exchange integrations. |
 | **Trading Journal** · [case study](https://meyasar.com/work/trading-journal/) | Trade analytics across 5 exchanges plus MT5. Built for a private client. |
-| **Barcode Inventory & POS** · [case study](https://meyasar.com/work/pos-inventory-suite/) | Stock and point-of-sale system with barcode scanning and reporting. |
+| **Barcode Inventory & POS** · [case study](https://meyasar.com/work/barcode-inventory-and-pos-system/) | Stock and point-of-sale system with barcode scanning and reporting. |
 
 ---
 
@@ -95,7 +95,7 @@ I don't ship templates. I build **tailor-made software** for the way a business 
 | **📦 Inventory & POS** | Barcode stock tracking, point-of-sale, e-invoice and ÖKC integrations. |
 | **🔧 Project Rescue** | Taking over, fixing and extending a codebase another developer left behind. |
 
-**Pricing and scope for each: [meyasar.com/services](https://meyasar.com/services/)** · [Türkçe](https://meyasar.com/tr/hizmetler/)
+**Pricing and scope for each: [meyasar.com](https://meyasar.com)** · [Türkçe](https://meyasar.com/tr/)
 
 ---
 
